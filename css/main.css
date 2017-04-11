@@ -1,0 +1,12 @@
+body {
+	 background: #FFFFFF;
+	 margin: 2rem;
+ }
+ 
+ /* phone */
+.phone {
+	font-weight: 600;
+	font-size: 1rem;
+	color: #704214;
+}
+
